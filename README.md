@@ -39,9 +39,9 @@ http://zhs.glyphwiki.org/wiki/GlyphWiki:%e8%91%97%e4%bd%9c%e6%9d%83%e4%b8%8e%e8%
 
 ## 下载通道
 
-进入[“Release”界面](https://github.com/Skr-ZERO/FlyFlowerSong/releases)下载对应版本的 TTF 文件。早期版本的字体文件已经全部丢失，敬请谅解。
+1.进入[“Release”界面](https://github.com/Skr-ZERO/FlyFlowerSong/releases)下载对应版本的 TTF 文件。早期版本的字体文件已经全部丢失，敬请谅解。
 
-使用愉快！
+2.[腾讯微云。](https://share.weiyun.com/G0NHFyYh)
 
 ## 致谢
 
