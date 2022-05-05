@@ -37,7 +37,9 @@ http://zhs.glyphwiki.org/wiki/GlyphWiki:%e8%91%97%e4%bd%9c%e6%9d%83%e4%b8%8e%e8%
 
 在制作衍生字体时，名称尽量不要出现“飞花”“FlyFlower”的字样。也不要将该字体用于违反国家法律和公序良俗的任何场景。
 
-## 确认完上述信息后，请于[“Release”界面](https://github.com/Skr-ZERO/FlyFlowerSong/releases)下载最新版字体。
+## 下载通道
+
+进入[“Release”界面](https://github.com/Skr-ZERO/FlyFlowerSong/releases)下载对应版本的 TTF 文件。早期版本的字体文件已经全部丢失，敬请谅解。
 
 使用愉快！
 
