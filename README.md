@@ -54,6 +54,8 @@
 - 用于违反国家法律和公序良俗的任何场景；
 - 在制作衍生字体时，名称出现“飞花”“FlyFlower”等字样。
 
+若对本字体有意见或问题，欢迎于[issue页面](https://github.com/Skr-ZERO/FlyFlowerSong/issues)提出。
+
 ## 下载通道
 
 1.进入[“Release”界面](https://github.com/Skr-ZERO/FlyFlowerSong/releases)下载对应版本的 TTF 文件。
