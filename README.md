@@ -22,17 +22,20 @@
 ![1](image/介绍1.jpg)
 ![2](image/介绍2.jpg)
 
-### 优化标点字母符号
+### 优化字母与符号
 
-对句号、半浊点等空心、圆圈类符号以及其他过粗的符号进行改薄、优化处理，优化与汉字搭配的效果。
+对i、j的点、句号、半浊点等空心、圆圈类符号以及其他过粗的符号进行改薄、优化处理，优化与汉字搭配的效果。
 
 ![3](image/介绍3.jpg)
 
 ### Opentype特性
-原字体未制作任何Opentype特性。目前本人仅制作了对假名、注音符号和标点的竖排映射。若有其他需求，欢迎于[issue页面](https://github.com/Skr-ZERO/FlyFlowerSong/issues)提出。
+原字体未制作任何Opentype特性。
 
 ![4](image/介绍4.jpg)
- 
+![7](image/介绍7.jpg)
+
+> 若有其他需求，欢迎于[issue页面](https://github.com/Skr-ZERO/FlyFlowerSong/issues)提出。
+
 ### 支持其他语言
 ![5](image/介绍5.jpg)
 ![6](image/介绍6.jpg)
