@@ -58,9 +58,7 @@
 
 ## 下载通道
 
-1.进入[“Release”界面](https://github.com/Skr-ZERO/FlyFlowerSong/releases)下载对应版本的 TTF 文件。
-
-2.[腾讯微云。](https://share.weiyun.com/G0NHFyYh)
+进入[“Release”界面](https://github.com/Skr-ZERO/FlyFlowerSong/releases)下载对应版本的 TTF 或 OTF 文件。
 
 ## 致谢
 
