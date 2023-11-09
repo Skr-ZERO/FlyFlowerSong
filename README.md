@@ -68,7 +68,11 @@
 - [字形维基](http://zhs.glyphwiki.org/wiki/GlyphWiki:%e9%a6%96%e9%a1%b5) 提供制作字体的平台，字形维基用户制作字形。
 - 所有下载使用的朋友。
 
-
 ## 打赏支持
 
 ![6](image/打赏.jpg)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Skr-ZERO/FlyFlowerSong.svg)](https://starchart.cc/Skr-ZERO/FlyFlowerSong)
+
