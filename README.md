@@ -72,7 +72,7 @@
 
 ![6](image/打赏.jpg)
 
-## Stargazers over time
+## Star数趋势图
 
 [![Stargazers over time](https://starchart.cc/Skr-ZERO/FlyFlowerSong.svg)](https://starchart.cc/Skr-ZERO/FlyFlowerSong)
 
